@@ -1,10 +1,4 @@
-/* 
 
-Sentra Template
-
-https://templatemo.com/tm-518-sentra
-
-*/
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -414,15 +408,15 @@ header {
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/four.png);
+  background-image: url(../img/slide_1.jpg);
 }
 
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/two.jpg);
+  background-image: url(../img/slide_2.jpg);
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/one.jpg);
+  background-image: url(../img/slide_3.jpg);
 }
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}
